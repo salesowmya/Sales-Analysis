@@ -1,8 +1,8 @@
 
-# ${\color{yellow} Sales\ Analysis\ using\ MySQL}$
+# ${{} Sales\ Analysis\ using\ MySQL}$
 
 This project focuses on analyzing a sales dataset using SQL queries. It helps in understanding how businesses can use data to find useful insights like who their best customers are, which cities bring in the most revenue, and how different product categories are performing.
-# ${\color{white} Objectives}$
+# ${{} Objectives}$
 
 - To explore and understand the sales data using SQL queries.
 
@@ -18,13 +18,13 @@ This project focuses on analyzing a sales dataset using SQL queries. It helps in
 
 - To develop skills for real-life business data analysis using databases.
 
-# ${\color{}Tools\ used}$
+# ${{}Tools\ used}$
 - SQL (Structured Query Language): For writing queries to explore and analyze the data.
 
 - Database Platform: MySQL (or any similar database system like PostgreSQL, SQLite, etc.).
 
 - Software/Environment: MySQL Workbench, pgAdmin, DBeaver, or any other SQL editor where you can run SQL queries.
-# ${\color{}Steps\ Included\ in\ the\ Project}$
+# ${{}Steps\ Included\ in\ the\ Project}$
 
 - Filtering Data: Using WHERE and LIKE to find specific rows based on conditions like shipping mode, customer name, or product name.
 
@@ -35,7 +35,7 @@ This project focuses on analyzing a sales dataset using SQL queries. It helps in
 - Top Records: Using LIMIT and OFFSET to find the top-performing products or customers.
 
 - Pattern Matching: Finding customer names or product names that follow a certain pattern using LIKE and wildcards (%, _).
-# ${\color{}Types\ of\ Analysis\ Performed}$
+# ${{}Types\ of\ Analysis\ Performed}$
 - Found all sales where:
 
 The shipping mode was "Economy" and the total sale amount was more than 25,000.
@@ -61,7 +61,7 @@ Total number of orders
 Counted how many unique regions exist in the dataset.
 
 Found how many orders each customer made.
-# ${\color{}Key\ Insights\ from\ the\ Data}$
+# ${{}Key\ Insights\ from\ the\ Data}$
 
 Some customers and cities contribute a large portion of the total sales, which is valuable for targeted marketing.
 
@@ -70,7 +70,7 @@ The Technology category in Ireland shows active and recent sales, suggesting it 
 A few customers have made many purchases, indicating loyal or high-value customers.
 
 There is a big difference in unit profits across different sales, showing which products or strategies are more profitable.
-# ${\color{}Conclusion}$
+# ${{}Conclusion}$
 
 This SQL Sales Analysis project helps in understanding how to use SQL to explore and analyze real-world sales data. It teaches how to write useful queries to answer business questions and uncover trends. These types of data analysis skills are very useful for careers in Data Analysis, Business Intelligence, and Database Management.
 
